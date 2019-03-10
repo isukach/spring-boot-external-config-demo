@@ -1,0 +1,3 @@
+player:
+  config:
+    max-track-length: 120s

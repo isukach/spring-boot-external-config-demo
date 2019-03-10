@@ -1,0 +1,4 @@
+player:
+  config:
+    max-track-length: 240s
+    tracks-location: http://track-bucket.com/
